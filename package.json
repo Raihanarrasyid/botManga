@@ -6,7 +6,8 @@
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
     "axios": "^1.6.7",
-    "jimp": "^0.22.12",
+    "image-type": "^5.2.0",
+    "jimp": "^0.16.13",
     "jspdf": "^2.5.1",
     "node-cache": "^5.1.2",
     "pdfkit": "^0.14.0",
@@ -14,6 +15,7 @@
     "puppeteer": "^22.4.1",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
-    "qrcode-terminal": "^0.12.0"
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.32.6"
   }
 }
